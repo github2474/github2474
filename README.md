@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @github2474
-- 👀 I’m interested in html,css,js
-- 🌱 I’m currently learning c
-- 💞️ I’m looking to collaborate on small game 
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning Springcloud Alibaba
+- 💞️ I’m looking to collaborate on commercial software 
 - 📫 How to reach me wc: y2474353483
 
 <!---
